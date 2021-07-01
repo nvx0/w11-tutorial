@@ -17,13 +17,15 @@ Wan't to install windows 11 on unsupported hardware without usb? This will help 
 13. Then create first DWORD Value that will bypass TrustedMachine 2.0:
 
 <br>
-``` 
+<br>
+
    Registry values:
 
    BypassSecureBootCheck with value 1 (``Hexadecimal``)
    BypassTPMCheck with value 1 (``Hexadecimal``)
    Both are DWORD 32-Bit
-```
+
+<br>
 <br>
    
 14. Then you can close this regedit, BUT DON'T CLOSE CMD
