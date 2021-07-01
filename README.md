@@ -41,12 +41,12 @@ Wan't to install windows 11 on unsupported hardware without usb? This will help 
 # Issues with screen
 If your screen is weird then
 <br>
-  Solution 1: ``Win + L`` then login into your account
-   <br>  
+  Solution 1: ``Win + L`` then login into your account  
+  
   Solution 2: Restart PC
-   <br>
+  
   Solution 3: Put your Laptop/PC in sleep mode
-  <br>
+  
   Solution 4: Install drivers for you GPU (don't worry if there is no driver for Windows 11, drivers for Windows 10 will work too)
 <br>
 
