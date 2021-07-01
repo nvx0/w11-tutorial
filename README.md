@@ -14,10 +14,17 @@ Wan't to install windows 11 on unsupported hardware without usb? This will help 
 10. Then navigate to ``HKEY_LOCAL_MACHINE -> SYSTEM -> Setup``
 11. Now you will create file that will bypass TrustedMachine and SafeBoot
 12. Create new key with name ``LabConfig``
-13. Then create first DWORD Value that will bypass TrustedMachine 2.0: 
+13. Then create first DWORD Value that will bypass TrustedMachine 2.0:
+
+<br>
+``` 
+   Registry values:
+
    BypassSecureBootCheck with value 1 (``Hexadecimal``)
    BypassTPMCheck with value 1 (``Hexadecimal``)
    Both are DWORD 32-Bit
+```
+<br>
    
 14. Then you can close this regedit, BUT DON'T CLOSE CMD
 
