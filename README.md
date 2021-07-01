@@ -20,15 +20,25 @@ Wan't to install windows 11 on unsupported hardware without usb? This will help 
    BypassTPMCheck with value 1 (``Hexadecimal``)
    <br>
    Both are DWORD 32-Bit
+   <br>
 14. Then you can close this regedit, **BUT DON'T CLOSE CMD**
+   <br>
 15. Installation will guide you.
+   <br>
 16. Now you are on disk step so, choose you C:\ Drive, this will give you warning but don't worry, your old files will be stored in Windows.old
+   <br>
 17. Then the installation will begin
+   <br>
 18. When the installation finishes your pc will reboot and you will have 2 Windows 10, select the first one. It's only name so, don't worry.
+   <br>
 19. Now the setup will install drivers and other stuff
+   <br>
 20. Then you will have the OOBE screen, setup your pc however you wan't
+   <br>
 21. Then you must wait till Windows create your profile.
+   <br>
 22. You will be greated with new windows 11 Desktop.
+    <br>
 
 # Issues with screen
 If your screen is weird then
