@@ -6,7 +6,7 @@ Wan't to install windows 11 on unsupported hardware without usb? This will help 
 2. Navigate to your C:\ drive
 3. Create folder named ``weve``
 4. You are halfway done, now open Run ``CTRL+R``
-5. Now input <img src="https://cdn.upload.systems/uploads/95qrsMQW.png"> into box below
+5. Now input into box below <br> <img src="https://cdn.upload.systems/uploads/95qrsMQW.png">
 6. Your pc will restart into advenced recovery mode.
 7. Then go to Advenced options
 8. And select Command Prompt
@@ -16,7 +16,9 @@ Wan't to install windows 11 on unsupported hardware without usb? This will help 
 12. Create new key with name ``LabConfig``
 13. Then create first DWORD Value that will bypass TrustedMachine 2.0: 
    BypassSecureBootCheck with value 1 (``Hexadecimal``)
+   <br>
    BypassTPMCheck with value 1 (``Hexadecimal``)
+   <br>
    Both are DWORD 32-Bit
 14. Then you can close this regedit, **BUT DON'T CLOSE CMD**
 15. Installation will guide you.
@@ -30,14 +32,20 @@ Wan't to install windows 11 on unsupported hardware without usb? This will help 
 
 # Issues with screen
 If your screen is weird then
+<br>
   Solution 1: ``Win + L`` then login into your account
+   <br>  
   Solution 2: Restart PC
+   <br>
   Solution 3: Put your Laptop/PC in sleep mode
+  <br>
   Solution 4: Install drivers for you GPU (don't worry if there is no driver for Windows 11, drivers for Windows 10 will work too)
+<br>
 
 # Other issues
 If you are having other issues then feel free to open issue and tell me what is your problem. I will try to help!
 
 # Credits
 All written by cloud3,
+<br>
 Last update: 9PM 01.07.2021
