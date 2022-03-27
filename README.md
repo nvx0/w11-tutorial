@@ -1,5 +1,5 @@
 # w11-tutorial
-Wan't to install windows 11 on unsupported hardware without usb? This will help you out!
+Want to install windows 11 on unsupported hardware without usb? This tutorial will help you out!
 
 # EN Tutorial
 1. Go to ``winiso.pl`` and download Windows 11. It's quite small.
@@ -40,7 +40,7 @@ Wan't to install windows 11 on unsupported hardware without usb? This will help 
 
 19. Now the setup will install drivers and other stuff
 
-20. Then you will have the OOBE screen, setup your pc however you wan't
+20. Then you will have the OOBE screen, setup your pc however you want
 
 21. Then you must wait till Windows create your profile.
 
@@ -65,4 +65,4 @@ If you are having other issues then feel free to open issue and tell me what is 
 # Credits
 All written by cloud3,
 <br>
-Last update: 9PM 01.07.2021
+Last update: 7PM 01.07.2022
